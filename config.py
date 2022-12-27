@@ -3,12 +3,12 @@ Buy_Alert  = ''
 Sell_Alert = ''
 
 # Telegram Settings
-send_telegram_alerts = True
+send_telegram_alerts = False
 tg_token   = '' # Bot token. Get it from @Botfather
 channel    = '-100'   # Channel ID (ex. -1001487568087) aLca :: Note: -100 is important as start
 
 # Discord Settings
-send_discord_alerts = False
+send_discord_alerts = True
 discord_webhook     = 'https://discord.com/api/webhooks/1055712151928574122/olmdMVoOhkKswwxF1w0I13vVkLuEXJczuOAXdyy3L6-9FoEEMRBQuZhBNcsWAbTygS3U'    # Discord Webhook URL (https://support.discordapp.com/hc/de/articles/228383668-Webhooks-verwenden)
 
 #Twitter Settings
